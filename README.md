@@ -1,6 +1,6 @@
 # Frontend Mentor - Single price grid component solution
 
-This is a solution to the [Single price grid component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Single price grid component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -25,14 +25,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](scnreenshot-active.png) 
-![](screenshot-mobile.png) 
+![](scnreenshot-active.png)
+![](screenshot-mobile.png)
 ![](screenshot.png)
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/responsive-component-using-css-grid-ktImFjfMwb)
+- Live Site URL: [live site URL](https://yassine-ramla.github.io/Frontend-Mentor-Single-price-grid-component-solution/)
 
 ## My process
 
