@@ -123,6 +123,21 @@ main {
   list-style-type: none;
 }
 
+footer {
+  display: none;
+  margin-top: 20px;
+  color: var(--grayish-blue1);
+}
+
+footer a {
+  text-decoration: none;
+  color: var(--cyan2);
+}
+
+footer a:hover {
+  color: var(--grayish-blue1);
+}
+
 @media (min-width: 800px) {
   main {
     grid-template-columns: 1fr 1fr;
@@ -142,5 +157,9 @@ main {
 
   .sec3 {
     border-radius: 0 0 5px 0;
+  }
+
+  footer {
+    display: block;
   }
 }
